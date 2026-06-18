@@ -1,0 +1,2 @@
+assets/*.csv filter=lfs diff=lfs merge=lfs -text
+assets/models/*.keras filter=lfs diff=lfs merge=lfs -text
