@@ -1,28 +1,21 @@
-fastapi
-uvicorn
-python-multipart
+streamlit==1.45.1
+requests==2.32.3
 
-streamlit
-requests
+fastapi==0.115.12
+uvicorn==0.34.3
+python-multipart==0.0.20
 
-numpy
-pandas
-scikit-learn
-matplotlib
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.3
 
-librosa
-soundfile
+librosa==0.11.0
+soundfile==0.13.1
 
-tensorflow
-librosa
-numpy
-pandas
-scikit-learn
-fastapi
-uvicorn
-streamlit
-opencv-python
-python-multipart
-python-dotenv
-keras
-av
+tensorflow-cpu==2.16.1
+
+opencv-python-headless==4.11.0.86
+
+python-dotenv==1.1.0
+av==14.4.0
