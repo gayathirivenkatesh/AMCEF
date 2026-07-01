@@ -1,11 +1,11 @@
-streamlit
-streamlit-mic-recorder
+streamlit==1.37.0
+streamlit-mic-recorder==0.0.8
 requests
 plotly
-numpy
+numpy==1.26.4
 pandas
 scikit-learn
-tensorflow
+tensorflow-cpu==2.15.0
 opencv-python-headless
 librosa
 pillow
