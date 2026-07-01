@@ -5,7 +5,7 @@ plotly
 numpy==1.26.4
 pandas
 scikit-learn
-tensorflow-cpu==2.15.0
+tensorflow==2.15.0
 opencv-python-headless
 librosa
 pillow
