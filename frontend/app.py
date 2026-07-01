@@ -4,6 +4,10 @@ import json
 import plotly.graph_objects as go
 import numpy as np
 from streamlit_mic_recorder import mic_recorder
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 # ------------------ PAGE CONFIG ------------------
 st.set_page_config(
