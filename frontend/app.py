@@ -415,7 +415,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-backend_url = "http://localhost:8000"
+backend_url = "https://amcef-1.onrender.com"
 
 # ------------------ LEFT PANEL (SIDEBAR) ------------------
 with st.sidebar:
